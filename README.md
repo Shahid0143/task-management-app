@@ -29,8 +29,8 @@ Start the development server: npm start.
 How to Run Locally
 Clone the repository:
 
-git clone https://github.com/Shahid0143/greenmentor.git
-cd greenmentor
+git clone https://github.com/Shahid0143/task-management-app.git
+cd task-management-app
 npm install
 npm start
 
